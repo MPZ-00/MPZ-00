@@ -11,11 +11,9 @@ I am currently a computer science student and have already successfully graduate
 * 🤝  I'm open to collaborating on interesting projects
 
 <a href="https://www.twitch.tv/mpz_00" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/mpz_00?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+src="https://img.shields.io/twitch/status/mpz_00?logo=twitchsx&style=for-the-badge&color=A52AFF&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
-### Skills
-
-
+### Skills 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
@@ -33,22 +31,21 @@ src="https://img.shields.io/twitch/status/mpz_00?logo=twitchsx&style=for-the-bad
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-
 ### Socials
 
-<p align="left"> <a href="https://www.dev.to/mpz00" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/MPZ-00" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/martin-prätzlich-bb4303243/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.polywork.com/martin_prtzlich" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/polywork.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/mpz_00" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.dev.to/mpz00" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/MPZ-00" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://mpz00.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/martin-prätzlich-bb4303243/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.polywork.com/martin_prtzlich" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/polywork.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/20919552/mpz-00" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/mpz_00" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/mpz_00" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/MPZ-00"><img src="https://github-readme-stats.vercel.app/api?username=MPZ-00&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="MPZ-00's GitHub stats" /></a>
+<a href="http://www.github.com/MPZ-00"><img src="https://github-readme-stats.vercel.app/api?username=MPZ-00&show_icons=true&hide=&count_private=true&title_color=BA5AFF&text_color=ffffff&icon_color=7129FF&bg_color=1c1917&hide_border=true&show_icons=true" alt="MPZ-00's GitHub stats" /></a>
 
-<a href="http://www.github.com/MPZ-00"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MPZ-00&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/MPZ-00"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MPZ-00&stroke=ffffff&background=1c1917&ring=BA5AFF&fire=BA5AFF&currStreakNum=ffffff&currStreakLabel=BA5AFF&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/MPZ-00"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=MPZ-00&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/MPZ-00"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=MPZ-00&bg_color=1c1917&color=ffffff&line=7129FF&point=BA5AFF&title_color=BA5AFF&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/MPZ-00" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MPZ-00&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/MPZ-00" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MPZ-00&langs_count=10&title_color=BA5AFF&text_color=ffffff&icon_color=7129FF&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Support Me
 
