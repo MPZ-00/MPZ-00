@@ -32,6 +32,7 @@ src="https://img.shields.io/twitch/status/mpz_00?logo=twitchsx&style=for-the-bad
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
+<<<<<<< HEAD
 
 
 ### Socials
@@ -53,3 +54,5 @@ src="https://img.shields.io/twitch/status/mpz_00?logo=twitchsx&style=for-the-bad
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/mpz00"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+=======
+>>>>>>> a9e06cfb6f236d6f7a68ad7cf601dee86caa41c3
