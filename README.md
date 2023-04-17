@@ -6,8 +6,8 @@ Student and System Admin
 
 I am currently a computer science student and have already successfully graduated as an information and communication technology assistant. I love programming and gaming, but also drawing and listening to music and composing myself. I also have about two years of professional experience in the IT and development industry. Currently, I mainly program with Java, JS and MongoDB and develop solutions for customers.
 
-* 🌍  I'm based in Germany, Weingarten
-* 🧠  I'm learning the framework Angular, Python and Windows PowerShell
+* 🌍  I'm based in Weingarten, Germany
+* 🧠  I'm learning the framework Vue.js, Modern Web Design and Windows PowerShell
 * 🤝  I'm open to collaborating on interesting projects
 
 <a href="https://www.twitch.tv/mpz_00" target="_blank" rel="noreferrer"><img
